@@ -1,64 +1,60 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Shanmugam Ekambaram
+twitter_username: shanspaniard
+name: Shanmugam Ekambaram
 
 # Build settings
 markdown: kramdown
 
 #User specific content
 #Links that will appear in the navbar
-primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
- - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
- - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+# primarylinks:
+#  - title: Blog
+#    url: http://automateddeveloper.blogspot.com/
+#  - title: GitHub
+#    url: https://github.com/robhinds
+#  - title: StackOverflow
+#    url: http://stackoverflow.com/users/258813/rhinds
+#  - title: DZone
+#    url: https://dzone.com/users/899489/rhinds.html
+#  - title: LinkedIn
+#    url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
 
 #Any buzzword skills you want to include
 skills:
- - Groovy
- - Spring MVC
- - Spring Boot
- - Gradle
  - Java
- - JPA
+ - Big Data
  - SQL
- - REST
- - Tech Architecture
+ - REST API
+ - MEAN
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
+# blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
 
 #Work experience is required
 roles:
- - title: Senior Engineer
-   start: 2016
+ - title: Big Data Analyst
+   start: 2017
    end: Ongoing
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+   employer: Knoinf Technologies
+
+ - title: Software Engineer
+   start: 2016
+   end: 2017
+   employer: CVIAC Consulting Pvt LTD
+   
+ - title: Software Engineer
+   start: 2013
+   end: 2017
+   employer: Viven Technologies
+ 
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Bachelor of Engineering (B.E)
+   date : 2013
+   subject: Computer Science
+   college: Meenakshi college of Engineering
 
 #This section is optional (as is the image link below)
 coursera:
@@ -75,30 +71,21 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/learning-neural-networks
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
+ - ShanmugamEkambaram/shanmugam.github.io
+ - ShanmugamEkambaram/sparkRdd
+
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+   profileurl: http://stackoverflow.com/
+   flairimageurl: http://stackoverflow.com/
 
 #Mobile apps section is optional
 apps:
- - name: Chuck the Quiz
+ - name: 
    platform: Android
-   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
-   description: A basic early Android app (open sourced)
+   url: https://play.google.com/store/apps/details?id=
+   description:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
