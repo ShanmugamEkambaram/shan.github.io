@@ -37,17 +37,19 @@ roles:
    start: 2017
    end: Ongoing
    employer: Knoinf Technologies
+   role:
 
  - title: Software Engineer
    start: 2016
    end: 2017
    employer: CVIAC Consulting Pvt LTD
+   role:
    
  - title: Software Engineer
    start: 2013
    end: 2016
    employer: Viven Technologies
- 
+   role:
 
 #Education is required
 education:
@@ -55,7 +57,7 @@ education:
    date : 2013
    subject: Computer Science
    college: Meenakshi college of Engineering
-   
+   university:
 #This section is optional (as is the image link below)
 coursera:
    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
