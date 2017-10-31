@@ -37,19 +37,19 @@ roles:
    start: 2017
    end: Ongoing
    employer: Knoinf Technologies
-   role:loading and transforming of large sets of structured and semi structured data.Develop Hive queries for the analysis of data.Set performance tuning parameters to increase overall performance.Migrating the data to MySql from Hive using Sqoop.Writing the design and technical documentation of the solution for the client
+   role: loading and transforming of large sets of structured and semi structured data.Develop Hive queries for the analysis of data.Set performance tuning parameters to increase overall performance.Migrating the data to MySql from Hive using Sqoop.Writing the design and technical documentation of the solution for the client
 
  - title: Software Engineer
    start: 2016
    end: 2017
    employer: CVIAC Consulting Pvt LTD
-   role:Involved in requirement analysis,design and development.Developed data ingestion shell scripts to load data from source systems(MySql,SQL server) to hve using sqoop import commands.Import and Export data into hdfs and hive using sqoop.Load and transform large sets of structured and semi structured data.Involved in creating hive tables,loading data into hive tables and Writing hive queries.
+   role: Involved in requirement analysis,design and development.Developed data ingestion shell scripts to load data from source systems(MySql,SQL server) to hve using sqoop import commands.Import and Export data into hdfs and hive using sqoop.Load and transform large sets of structured and semi structured data.Involved in creating hive tables,loading data into hive tables and Writing hive queries.
    
  - title: Software Engineer
    start: 2013
    end: 2016
    employer: Viven Technologies
-   role:Being one of the team member, worked Pro-actively and played vital role in collecting and consolidating client requirements.Involved in Analysis, Development and Unit Testing of CMS case management using Struts framework, JSP and Hibernate.Worked in Resolving and fixing errors on a daily basis occurs in production systems.Involved improving the performance in mainly used Search Screens like Provider and Member Search.
+   role: Being one of the team member, worked Pro-actively and played vital role in collecting and consolidating client requirements.Involved in Analysis, Development and Unit Testing of CMS case management using Struts framework, JSP and Hibernate.Worked in Resolving and fixing errors on a daily basis occurs in production systems.Involved improving the performance in mainly used Search Screens like Provider and Member Search.
 
 #Education is required
 education:
